@@ -8,6 +8,5 @@ N = 512
 #Path of data file
 FILENAME_REC1 = /home/dvalencia/MDPL_Simulation/Processed_data/PotDot.bin
 FILENAME_REC2 = /home/dvalencia/MDPL_Simulation/Processed_data/PotDot.bin
-FILENAME_SIM = /home/dvalencia/MDPL_Simulation/Processed_data/PotDot.bin
 #Number of radial rays
 NRays = 1000000
